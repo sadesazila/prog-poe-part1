@@ -1,6 +1,6 @@
 ﻿# Cybersecurity Awareness Chatbot - Part 2
 
-**Author:** Sade Sazila
+**Author:** Sade Mzila
 **Module:** PROG6221 - Programming 2A
 **Institution:** The Independent Institute of Education (IIE)
 **Date:** May 2026
